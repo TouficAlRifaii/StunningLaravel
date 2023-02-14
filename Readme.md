@@ -9,7 +9,7 @@ apt-get = it is a command to interact with the Advanced Package Tool  library an
 
 ip address = 172.31.44.179
 
-##CheckPoint 4
+## CheckPoint 4
 
 
 2- I used cp command 
